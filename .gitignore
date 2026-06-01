@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# virtual environment
+venv/
+.env/
+.venv/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
